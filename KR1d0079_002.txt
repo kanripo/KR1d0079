@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 三禮圖
-#+DATE: 2015-09-23 09:38:41
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:11:22.205968
+#+PROPERTY: ID KR1d0079
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0079_WYG_002-1a>¶
 欽定四庫全書¶
 　三禮圖卷二¶
@@ -615,4 +617,3 @@
 其可盡乎其又以規為瑱也則又用角犀象矣¶
 　¶
 　三禮圖卷二¶
-
